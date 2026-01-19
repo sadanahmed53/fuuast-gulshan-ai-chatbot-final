@@ -35,7 +35,7 @@ const App: React.FC = () => {
         <section className="relative h-[600px] bg-[#0f172a] overflow-hidden">
           <div className="absolute inset-0 z-0">
             <img 
-              src="https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1600" 
+              src="https://fuuast.edu.pk/wp-content/uploads/2015/08/3-e1453894762294.png" 
               alt="University Library" 
               className="w-full h-full object-cover opacity-40 scale-105"
             />
